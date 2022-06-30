@@ -1,0 +1,7 @@
+asbtract data type = providing only the interface
+
+example 
+
+abstract data : list => implemented 1 : Dynamic array implemented 2 : Linked list
+abstract data : Queue => implemented 1 : Linked list base queue, implemented 2 : Array bases queue, implemented 3 : stack base queue
+abstract data : map => implemented 1 : Tree Map, implemented 2 : Hash Map, implemented 3 : Hash table
