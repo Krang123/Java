@@ -1,0 +1,5 @@
+file.java => Compiler => file.class => JVM => program
+$ javac file.java
+$ ls
+file.java file.class
+java file
