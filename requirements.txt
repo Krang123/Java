@@ -3,3 +3,7 @@ $ javac file.java
 $ ls
 file.java file.class
 java file
+
+data structure = way of organizing data to be used effectively
+
+
