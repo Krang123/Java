@@ -1,0 +1,12 @@
+two dimensions : 
+1.space
+2.time
+
+Big-O = complexity in the worst case
+
+n = input size
+
+constant time : O(1)
+
+property 1 : O(k+n) = O(n)
+property 2 : O(kn)=O(n)
